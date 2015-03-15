@@ -1,0 +1,25 @@
+Though I knew diff before, I didn't know how the + and - symbols worked. 
+After watching the video I am clear on those concepts.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I could easily take an earlier version and customize a different flavour of it for a different need!
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Pros:
+Commits done as needed for the user
+Cons:
+User might forget to create a commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+The files can be related to the same logic, hence tracking them together helps.
+
+How can you use the commands git log and git diff to view the history of files?
+git log --stat
+git diff <commit_id_1> <commit_id_2>
+
+How might using version control make you more confident to make changes that could break something?
+Enough of this! I am not going to answer.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Wow! My command prompt is looking great.
+Thanks for that.
